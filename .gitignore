@@ -1,0 +1,14 @@
+# Ignore data files
+data/raw/
+data/processed/
+*.csv
+
+# Ignore environment
+fintech_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
